@@ -1,4 +1,4 @@
-# fillit dpanov (Denys Panov)
+# fillit - dpanov (Denys Panov)
 Can you feel it?
 
 After finishing [libft](https://github.com/denyspanov/libft-c-42), fillit is the
